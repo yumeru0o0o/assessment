@@ -1,0 +1,18 @@
+body {
+    background-color: #04A6EB; /*16進数カラーコードを使用*/
+    color : #FDFFFF; /*文字色の指定*/
+    width : 500px; /*幅*/
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    padding: 5px 20px; /*要素の内側の余白*/
+    background-color: #337AB7;
+    color: #FDFFFF;
+    border-style: none; /*境界線のスタイル*/
+}
+
+input {
+    height: 22px;
+}
